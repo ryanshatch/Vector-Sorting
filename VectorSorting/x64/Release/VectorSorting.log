@@ -1,0 +1,5 @@
+﻿  VectorSorting.cpp
+C:\Users\rshat\Documents\02 School\Current Classes\02\Pilot\Pilot Final\VectorSorting\VectorSorting.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rshat\Documents\02 School\Current Classes\02\Pilot\Pilot Final\VectorSorting\VectorSorting.cpp(201,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rshat\Documents\02 School\Current Classes\02\Pilot\Pilot Final\VectorSorting\VectorSorting.cpp(210,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rshat\Documents\02 School\Current Classes\02\Pilot\Pilot Final\VectorSorting\VectorSorting.cpp(318,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
